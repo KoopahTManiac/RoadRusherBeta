@@ -1,0 +1,199 @@
+
+TextureHolderToCompress1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vag
+  rotate: false
+  xy: 2, 2
+  size: 768, 1788
+  orig: 768, 1788
+  offset: 0, 0
+  index: -1
+meters
+  rotate: false
+  xy: 772, 2
+  size: 768, 1070
+  orig: 768, 1070
+  offset: 0, 0
+  index: -1
+GameOverScreen
+  rotate: false
+  xy: 772, 1074
+  size: 768, 305
+  orig: 768, 305
+  offset: 0, 0
+  index: -1
+Car1
+  rotate: false
+  xy: 2, 1792
+  size: 49, 130
+  orig: 49, 130
+  offset: 0, 0
+  index: -1
+Car2
+  rotate: false
+  xy: 53, 1792
+  size: 50, 113
+  orig: 50, 113
+  offset: 0, 0
+  index: -1
+DodgeRam
+  rotate: false
+  xy: 2, 1924
+  size: 43, 113
+  orig: 43, 113
+  offset: 0, 0
+  index: -1
+Resume
+  rotate: false
+  xy: 105, 1792
+  size: 477, 81
+  orig: 477, 81
+  offset: 0, 0
+  index: -1
+About
+  rotate: false
+  xy: 105, 1875
+  size: 477, 81
+  orig: 477, 81
+  offset: 0, 0
+  index: -1
+HDON
+  rotate: false
+  xy: 105, 1958
+  size: 477, 81
+  orig: 477, 81
+  offset: 0, 0
+  index: -1
+HDOFF
+  rotate: false
+  xy: 1542, 2
+  size: 477, 81
+  orig: 477, 81
+  offset: 0, 0
+  index: -1
+ChangeCar
+  rotate: false
+  xy: 1542, 85
+  size: 477, 81
+  orig: 477, 81
+  offset: 0, 0
+  index: -1
+MON
+  rotate: false
+  xy: 1542, 168
+  size: 477, 81
+  orig: 477, 81
+  offset: 0, 0
+  index: -1
+MOFF
+  rotate: false
+  xy: 1542, 251
+  size: 477, 81
+  orig: 477, 81
+  offset: 0, 0
+  index: -1
+Back
+  rotate: false
+  xy: 1542, 334
+  size: 477, 81
+  orig: 477, 81
+  offset: 0, 0
+  index: -1
+Start
+  rotate: false
+  xy: 1542, 417
+  size: 477, 81
+  orig: 477, 81
+  offset: 0, 0
+  index: -1
+Settings
+  rotate: false
+  xy: 1542, 500
+  size: 477, 81
+  orig: 477, 81
+  offset: 0, 0
+  index: -1
+Restart
+  rotate: false
+  xy: 1542, 583
+  size: 477, 81
+  orig: 477, 81
+  offset: 0, 0
+  index: -1
+Exit
+  rotate: false
+  xy: 1542, 666
+  size: 477, 81
+  orig: 477, 81
+  offset: 0, 0
+  index: -1
+coingold
+  rotate: false
+  xy: 1542, 749
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1
+TireTrack
+  rotate: false
+  xy: 53, 1907
+  size: 5, 15
+  orig: 5, 15
+  offset: 0, 0
+  index: -1
+RedSquere
+  rotate: false
+  xy: 47, 1924
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+GrindYellow
+  rotate: false
+  xy: 47, 1930
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+GrindWhite
+  rotate: false
+  xy: 47, 1934
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+GrindRed
+  rotate: false
+  xy: 47, 1938
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+GrindOrange
+  rotate: false
+  xy: 47, 1942
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+slowmotionmeterpoints
+  rotate: false
+  xy: 2, 2039
+  size: 15, 1
+  orig: 15, 1
+  offset: 0, 0
+  index: -1
+
+LessUsed1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AboutGame
+  rotate: false
+  xy: 2, 2
+  size: 768, 1366
+  orig: 768, 1366
+  offset: 0, 0
+  index: -1
